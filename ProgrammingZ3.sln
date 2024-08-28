@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ProgrammingZ3", "ProgrammingZ3\ProgrammingZ3.fsproj", "{7594CA8E-5A98-4B50-8B25-37D646103A65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7594CA8E-5A98-4B50-8B25-37D646103A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7594CA8E-5A98-4B50-8B25-37D646103A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7594CA8E-5A98-4B50-8B25-37D646103A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7594CA8E-5A98-4B50-8B25-37D646103A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

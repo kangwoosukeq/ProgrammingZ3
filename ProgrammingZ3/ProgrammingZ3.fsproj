@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Program.fs"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Z3" Version="4.12.2"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Include="example1.fsx"/>
+        <None Include="example2.fsx"/>
+        <None Include="example3.fsx"/>
+        <None Include="example4.fsx"/>
+        <None Include="example5.fsx"/>
+        <None Include="example6.fsx"/>
+    </ItemGroup>
+
+</Project>
